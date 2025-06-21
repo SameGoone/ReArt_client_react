@@ -6,7 +6,7 @@
 
 [Frontend на Angular](https://github.com/SameGoone/ReArt_client_angular)
 
-Стек: MobX, React Router, Semantic UI, Axios, Formic, Yup, Vite.
+Стек: React, MobX, React Router, Semantic UI, Axios, Formic, Yup, Vite.
 
 Реализовано:
 
